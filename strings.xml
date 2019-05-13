@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WOrds</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="add_id">ADD</string>
+    <string name="back_id">BACK</string>
+
+
+    <string name="backID">BACK</string>
+    <string name="addID">ADD</string>
+</resources>
